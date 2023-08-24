@@ -33,3 +33,22 @@ a{
     text-decoration: none;
     color: white;
 }
+
+.container{
+    background-color: red;
+    width: 3%;
+    height: 100vh;
+}
+
+li{
+    transform: rotate(90deg);
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    text-decoration: none;
+    list-style: none;
+    padding: 40%;
+    color: white;
+    cursor: pointer;
+    
+}
