@@ -50,5 +50,5 @@ li{
     padding: 40%;
     color: white;
     cursor: pointer;
-    
+    display: flex;
 }
