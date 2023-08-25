@@ -38,17 +38,71 @@ a{
     background-color: red;
     width: 3%;
     height: 100vh;
+    text-align: center;
+    justify-content: center;
+    display: flex;
 }
 
 li{
-    transform: rotate(90deg);
     align-items: center;
     justify-content: center;
     text-align: center;
     text-decoration: none;
     list-style: none;
-    padding: 40%;
     color: white;
     cursor: pointer;
-    display: flex;
+    transform: rotate(45deg);
+    position: absolute;
+    margin-top: 1%
+}
+
+.line1{
+    margin-top: 5%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.line2{
+    margin-top: 10%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.line3{
+    margin-top: 15%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.line4{
+    margin-top: 20%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.line5{
+    margin-top: 25%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.line6{
+    margin-top: 30%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.line7{
+    margin-top: 35%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.line8{
+    margin-top: 40%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 }
