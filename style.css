@@ -10,6 +10,11 @@ body, html{
 body{
     background-color: rgb(255, 255, 255);
 }
+@media screen and (max-width: 768px){
+    .menu{
+        font-size: 11px;
+    }
+}
 
 .menu{
     width: 100%;
