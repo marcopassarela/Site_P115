@@ -157,5 +157,10 @@ li{
     position: absolute;
     color: black;
     margin-left: 5%;
-    margin-top: 5%;
+    margin-top: 3%;
+    width: 50%;
+    text-align: justify;
+    font-family: 'Poppins', sans-serif;
+    word-spacing: 1px;
+    font-size: 14px;
 }
