@@ -40,7 +40,7 @@ a{
 }
 
 .container{
-    background-color: red;
+    
     width: 3%;
     height: 100vh;
     text-align: center;
@@ -75,50 +75,74 @@ li{
     justify-content: center;
     align-items: center;
     text-align: center;
+    color: black;
+    font-weight: bold;
 }
 
 .line2{
-    margin-top: 10%;
+    margin-top: 12%;
     justify-content: center;
     align-items: center;
     text-align: center;
+    color: black;
+    font-weight: bold;
 }
 
 .line3{
-    margin-top: 15%;
+    margin-top: 18%;
     justify-content: center;
     align-items: center;
     text-align: center;
+    color: black;
+    font-weight: bold;
 }
 .line4{
-    margin-top: 20%;
+    margin-top: 24%;
     justify-content: center;
     align-items: center;
     text-align: center;
+    color: black;
+    font-weight: bold;
 }
 .line5{
-    margin-top: 25%;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-}
-.line6{
     margin-top: 30%;
     justify-content: center;
     align-items: center;
     text-align: center;
+    color: black;
+    font-weight: bold;
+}
+.line6{
+    margin-top: 36%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: black;
+    font-weight: bold;
 }
 .line7{
-    margin-top: 35%;
+    margin-top: 42%;
     justify-content: center;
     align-items: center;
     text-align: center;
+    color: black;
+    font-weight: bold;
 }
 .line8{
-    margin-top: 40%;
+    margin-top: 48%;
     justify-content: center;
     align-items: center;
     text-align: center;
+    color: black;
+    font-weight: bold;
+}
+.line9{
+    margin-top: 54%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: black;
+    font-weight: bold;
 }
 @media screen and (max-width: 768px){
     .line1{
@@ -147,13 +171,9 @@ li{
     }
 }
 
-.base_textos{
-    background-color: green;
-    width: 100%;
-    height: 100vh;
-}
 
-.text_2010{
+
+.title{
     position: absolute;
     color: black;
     margin-left: 5%;
@@ -163,4 +183,6 @@ li{
     font-family: 'Poppins', sans-serif;
     word-spacing: 1px;
     font-size: 14px;
+    display:block;
 }
+
