@@ -40,11 +40,8 @@ a{
 }
 
 .container{
-    
-    width: 3%;
+    width: 100%;
     height: 100vh;
-    text-align: center;
-    justify-content: center;
     display: flex;
 }
 @media screen and (max-width: 768px){
@@ -57,132 +54,19 @@ a{
     }
 }
 
-li{
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-    text-decoration: none;
-    list-style: none;
-    color: white;
-    cursor: pointer;
-    transform: rotate(45deg);
-    position: absolute;
-    margin-top: 1%
-}
-
-.line1{
-    margin-top: 5%;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    color: black;
-    font-weight: bold;
-}
-
-.line2{
-    margin-top: 12%;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    color: black;
-    font-weight: bold;
-}
-
-.line3{
-    margin-top: 18%;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    color: black;
-    font-weight: bold;
-}
-.line4{
-    margin-top: 24%;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    color: black;
-    font-weight: bold;
-}
-.line5{
-    margin-top: 30%;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    color: black;
-    font-weight: bold;
-}
-.line6{
-    margin-top: 36%;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    color: black;
-    font-weight: bold;
-}
-.line7{
-    margin-top: 42%;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    color: black;
-    font-weight: bold;
-}
-.line8{
-    margin-top: 48%;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    color: black;
-    font-weight: bold;
-}
-.line9{
-    margin-top: 54%;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    color: black;
-    font-weight: bold;
-}
-@media screen and (max-width: 768px){
-    .line1{
-        margin-top: 15%;
-    }
-    .line2{
-        margin-top: 25%;
-    }
-    .line3{
-        margin-top: 35%;
-    }
-    .line4{
-        margin-top: 45%;
-    }
-    .line5{
-        margin-top: 55%;
-    }
-    .line6{
-        margin-top: 65%;
-    }
-    .line7{
-        margin-top: 75%;
-    }
-    .line8{
-        margin-top: 85%;
-    }
-}
-
-
-
 .title{
-    position: absolute;
+    margin-top: 5%;
     color: black;
-    margin-left: 5%;
-    margin-top: 3%;
-    width: 50%;
-    text-align: justify;
-    font-family: 'Poppins', sans-serif;
-    word-spacing: 1px;
-    font-size: 14px;
-    display:block;
+    font-weight: bold;
+    list-style: none;
+    width: 2%;
+    margin-left: 1%;
 }
 
+#box_description{
+    width: 50%;
+    height: 10vh;
+    position: relative;
+    margin-top: 5%;
+    margin-left: 5%;
+}
