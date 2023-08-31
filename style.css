@@ -41,12 +41,13 @@ body, html{
 .itens_menu {
     display: flex;
     justify-content: center;
-    padding: 10px;
+    padding: 25px;
 }
 
 .itens_menu a{
     color: white;
     text-decoration: none;
-    margin: 0 10px;
+    margin: 0 15px;
     font-size: 20px;
+    font-family: 'Playfair Display SC', serif;
 }
