@@ -4,6 +4,15 @@
 
 ### **⚠️This website is being created directly for a Brazilian band!⚠️**
 
+## Description
+
+P-115 is a site dedicated to an all-Brazilian band. The purpose of the site is to give its fans access to social networks and previously released music, the purpose of the site is to create new fans.
+
+## Key Features
+
+- The main features that the site has are its navigation buttons, for example, specific sections such as the navigation menu which is made up of the following items Home, Discography, Agenda, About, News and store, its exclusive content dedicated to new releases, etc.
+
+
 ## **The site is made up of the following languages.**
 * HTML
 * CSS
@@ -12,7 +21,7 @@
 * Video of the P-115 band.
 * And its respective navigation menu.
 
-## **The navigation menu consists of the following Buttons.**
+## **The navigation menu consists of the following Buttons, how to use;**
 - Start
 - Discography
 - Schedule
@@ -29,3 +38,9 @@
 <ins>**About Button:**</ins> This button, when clicked, goes to its respective page, on this page with name about, it has all the history that the band has over the course of their years, their respective years from 2015 to 2023, their entire trajectory.
 
 <ins>**News Button:**</ins> Button with the function of opening the News page, on this page are all the news and interviews that the band has given to date containing their interviews on YouTube HC news and other broadcasters.
+
+## Authors
+- [Marco Aurélio]
+  
+## License
+This site is licensed under the MIT license from github.
