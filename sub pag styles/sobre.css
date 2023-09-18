@@ -29,6 +29,8 @@ body{
     align-items: center;
     text-align: center;
     height: 7vh;
+    font-family: 'Playfair Display SC', serif;
+    font-size: 20px;
 }
 
 a{
@@ -40,9 +42,10 @@ a{
 }
 
 .container{
-    width: 100%;
+    width: 100vw;
     height: 100vh;
-    display: flex;
+    margin: 0;
+    padding: 0;
 }
 @media screen and (max-width: 768px){
     .container{
@@ -59,8 +62,24 @@ a{
     color: black;
     font-weight: bold;
     list-style: none;
-    width: 2%;
+    width: 4%;
     margin-left: 1%;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-size: 20px;
+    transform: rotate(-90deg);
+    line-height: 20px;
+}
+
+.item{
+    display: flex;
+    height: 15%;
+}
+.item p{
+    display: flex;
+    margin-top: 5%;
+    width: 45%;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-size: 15px;
 }
 
 #box_description{
@@ -69,4 +88,6 @@ a{
     position: relative;
     margin-top: 5%;
     margin-left: 5%;
+    font-family: 'Hind Siliguri', sans-serif;
+    line-height: 1.2em;
 }
