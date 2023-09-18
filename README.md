@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 "# Site_p115" 
 
 =======
@@ -8,12 +6,10 @@
 > Under construction ⚠️
 >
 > <h3>This website is being created directly for a Brazilian band.</h3>
->>>>>>> 0b28c0204fcd772bf978897a82821604165f2ac0
 =======
 # Site P-115
 
 ## Under construction... ⚠️
->>>>>>> 69617d5476d45da47303798cc156465a5571aae0
 
 ### **⚠️This website is being created directly for a Brazilian band!⚠️**
 
