@@ -42,11 +42,11 @@ a{
 }
 
 .container{
-    width: 90vw;
-    height: 100vh;
+    height: 100%;
     margin: 0;
     padding: 0;
     display: block;
+    background-color: rgb(0, 0, 0);
 }
 @media screen and (max-width: 768px){
     .container{
@@ -66,6 +66,7 @@ a{
     font-size: 20px;
     font-family: 'Hind Siliguri', sans-serif;
     line-height: 20px;
+    color: white;
 }
 
 .item{
@@ -74,12 +75,20 @@ a{
     text-align: center;
     align-items: center;
     margin: auto;
+
 }
 
 .item p{
     display: flex;
-    width: 50%;
+    width: 80%;
     text-align: justify;
     font-family: 'Hind Siliguri', sans-serif;
     line-height: 20px;
+    color: white;
+}
+
+#vocalista{
+    float: right;
+    clear: both;
+   
 }
